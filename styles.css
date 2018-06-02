@@ -1,0 +1,4 @@
+/*This psedo class helps to customize the 3rd child in list*/
+li:nth-child(3) {
+    background: #3333ff;
+}
